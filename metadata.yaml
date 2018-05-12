@@ -1,0 +1,45 @@
+_repo: M-moires-de-Marmontel--3-of-3-M-moires-d-un-p-re-pour-servir---l-Instruction-de-ses-enfans_27807
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Tourneux, Maurice
+    birthdate: 1849
+    deathdate: 1917
+    gutenberg_agent_id: '32075'
+    url: http://www.gutenberg.org/2009/agents/32075
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marmontel, Jean-François
+    aliases:
+    - Marmontel, Jean François
+    - Marmontell, Jean-François
+    - Marmontel, Jean-Francois
+    - Marmontel, Jean-François de
+    - Montmartel, Jean-François
+    - Marmontel, J.-F. (Jean-François)
+    - Du Marmontel, Jean-François
+    - De Marmontel, Jean-François
+    birthdate: 1723
+    deathdate: 1799
+    gutenberg_agent_id: '32074'
+    url: http://www.gutenberg.org/2009/agents/32074
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marmontel
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27807'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marmontel, Jean François, 1723-1799'
+- !lcc 'PQ'
+title: "Mémoires de Marmontel (Volume 3 of 3)\r\nMémoires d'un père pour servir à\
+  \ l'Instruction de ses enfans"
+url: http://www.gutenberg.org/ebooks/27807
